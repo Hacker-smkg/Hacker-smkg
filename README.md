@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Soumya Ganguly
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=500&lines=AI+%26+Full+Stack+Developer;Multi-Agent+Systems+Expert;E-commerce+Automation+Specialist;Building+the+Future+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+%26+AI+Developer;MERN+Stack+Specialist;Java+DSA+Enthusiast;Linux+Environment+Lover;Building+AI+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,13 +16,14 @@
 
 ## 🚀 About Me
 
-> "Building intelligent systems that scale businesses and solve real-world problems"
+> "Building intelligent systems and mastering full-stack development with passion for problem-solving"
 
-- 🤖 **AI & Automation Specialist** - Creating multi-agent systems for e-commerce scaling
-- 🛠️ **Full Stack Developer** - Python, JavaScript, FastAPI, React, Node.js
-- 📊 **Data Enthusiast** - Turning complex data into actionable business insights
-- 🎯 **Problem Solver** - Love tackling challenging technical problems
-- 🌱 **Continuous Learner** - Always exploring new technologies and frameworks
+- 🖥️ **Full Stack Developer** - MERN Stack specialist with strong foundation in HTML, CSS, Bootstrap, Tailwind
+- ☕ **Java DSA Enthusiast** - Practicing data structures & algorithms, exploring JShell for interactive coding
+- 🐧 **Linux Lover** - Comfortable working in Linux environments, command-line proficiency
+- 🤖 **AI Developer** - Building sentiment analysis systems and multi-agent automation
+- 📊 **Database Expert** - MySQL, MongoDB, PostgreSQL for robust data solutions
+- 🎓 **Final Year Student** - Working on AI sentiment analysis project for college
 
 ## 🎯 Current Focus
 
@@ -30,29 +31,31 @@
 class SoumyaGanguly:
     def __init__(self):
         self.current_work = [
-            "Building AI-powered e-commerce solutions",
-            "Developing multi-agent automation systems", 
-            "Exploring LangChain and CrewAI frameworks",
-            "Creating n8n visual workflows"
+            "🎓 Final year AI sentiment analysis project (College)",
+            "🤖 Building multi-agent e-commerce systems",
+            "☕ Practicing Java DSA with JShell", 
+            "💻 Contributing to MERN stack projects",
+            "🐧 Mastering Linux command-line tools"
         ]
         self.learning = [
-            "Advanced RAG architectures",
-            "Kubernetes orchestration",
-            "Microservices patterns",
-            "Cloud-native development"
+            "Advanced Java algorithms & data structures",
+            "AI/ML model optimization techniques", 
+            "Linux system administration",
+            "Full-stack performance optimization",
+            "Database design patterns"
         ]
         self.ask_me_about = [
-            "AI/ML", "Python", "FastAPI", "React", 
-            "Multi-agent systems", "E-commerce automation",
-            "API development", "Data analysis"
+            "MERN Stack", "Java DSA", "Linux", "AI/ML", 
+            "Sentiment Analysis", "Database Design",
+            "Full-stack development", "Problem solving"
         ]
     
     def get_daily_routine(self):
         return {
-            "morning": "☕ Coffee + Code review",
-            "day": "🚀 Building amazing projects",
-            "evening": "📚 Learning new technologies",
-            "night": "🛠️ Side projects & open source"
+            "morning": "☕ Java DSA practice + JShell experiments",
+            "day": "🚀 College project + Full-stack development",
+            "evening": "🐧 Linux exploration + Code reviews",
+            "night": "🤖 AI projects + Open source contributions"
         }
 ```
 
@@ -63,26 +66,28 @@ class SoumyaGanguly:
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### AI/ML & Frameworks
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Frontend & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Automation & Integration
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### AI/ML & Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -105,13 +110,24 @@ class SoumyaGanguly:
 
 <div align="center">
 
+[![AI Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Hacker-smkg&repo=test-ai-repo&theme=tokyonight)](https://github.com/Hacker-smkg/test-ai-repo)
 [![E-commerce AI Agents](https://github-readme-stats.vercel.app/api/pin/?username=Hacker-smkg&repo=ecommerce-ai-agents&theme=tokyonight)](https://github.com/Hacker-smkg/ecommerce-ai-agents)
 
 </div>
 
+### 🎓 [AI Sentiment Analysis System](https://github.com/Hacker-smkg/test-ai-repo) **(Final Year Project)**
+**Advanced sentiment analysis system for text classification and emotion detection**
+- 🧠 **Machine Learning**: Advanced NLP models for sentiment classification
+- 📊 **Data Analysis**: Comprehensive text preprocessing and feature extraction
+- 💻 **Team Collaboration**: Working with teammates on college capstone project
+- 🎯 **Real-world Application**: Solving practical sentiment analysis challenges
+- 🚀 **Performance Optimization**: Fine-tuned models for accuracy and efficiency
+
+*Tech Stack: Python, Scikit-learn, NLTK, Pandas, NumPy, Matplotlib*
+
 ### 🤖 [E-commerce AI Agents](https://github.com/Hacker-smkg/ecommerce-ai-agents)
 **Multi-agent AI system for e-commerce scaling**
-- 🏗️ **Architecture**: 4 specialized AI agents (Analytics, Operations, Marketing, Strategy)
+- 🏠️ **Architecture**: 4 specialized AI agents (Analytics, Operations, Marketing, Strategy)
 - 🎮 **Visual Workflows**: n8n integration for visual automation
 - ⚡ **FastAPI Backend**: High-performance REST API
 - 🔗 **Integrations**: Shopify, Google Analytics, Facebook Ads
@@ -140,12 +156,13 @@ class SoumyaGanguly:
 
 ## 🎯 2025 Goals
 
-- [ ] 🤖 Build 5 production-ready AI applications
-- [ ] 📚 Contribute to 10 open-source projects
-- [ ] 🚀 Launch a SaaS product using AI
-- [ ] 📝 Write 50+ technical blog posts
-- [ ] 🎤 Speak at 3 technology conferences
-- [ ] 🌱 Mentor 100+ developers in AI/ML
+- [ ] 🎓 Successfully complete final year AI sentiment analysis project
+- [ ] 💼 Land a great full-stack or AI developer role after graduation
+- [ ] ☕ Master Java DSA and crack coding interviews
+- [ ] 🤖 Build 3 production-ready AI applications for portfolio
+- [ ] 📚 Contribute to 5+ open-source projects
+- [ ] 🐧 Become proficient in Linux system administration
+- [ ] 🚀 Deploy MERN stack projects to showcase skills
 
 ## 💭 Random Dev Quote
 
@@ -164,9 +181,9 @@ class SoumyaGanguly:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your_discord)
 
-**💬 Ask me about:** AI, Python, FastAPI, Multi-agent systems, E-commerce automation
+**💬 Ask me about:** MERN Stack, Java DSA, Linux, AI/ML, Sentiment Analysis, Full-stack Development
 
-**📫 Reach me:** sounyaganguly89@gmail.com
+**📧 Reach me:** sounyaganguly89@gmail.com
 
 </div>
 
